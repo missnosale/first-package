@@ -2,7 +2,7 @@
     "name": "farzand/first",
     "description": "creating first composer package",
     "type": "library",
-    "license": "GPU",
+    "license": "MIT",
     "authors": [
         {
             "name": "Farzand Ali",
