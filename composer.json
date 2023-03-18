@@ -1,0 +1,21 @@
+{
+    "name": "farzand/first",
+    "description": "creating first composer package",
+    "type": "library",
+    "license": "GPU",
+    "authors": [
+        {
+            "name": "Farzand Ali",
+            "email": "missnosale@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+		"php" : "8.1.12"
+	},
+	"autoload": {
+		"psr-4": {
+			"Farzand\\": "src/HashPassword/"
+		}
+	}
+}
