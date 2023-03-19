@@ -1,2 +1,10 @@
 <?php
-print 'Hello Password';
+
+class Password {
+
+    public function show_password($password)
+    {
+        return $password
+    }
+
+}
