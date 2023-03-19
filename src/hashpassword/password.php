@@ -1,6 +1,5 @@
 <?php
-
-namespace Farzand\hashpassword;
+namespace Farzand;
 
 class Password {
 
